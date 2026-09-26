@@ -26,13 +26,15 @@ Rock-Paper-Scissors-Game/
 ├── RPS.css
 ├── RPS.js
 └── README.md
-🎯 How to Play
+
+## 🎯 How to Play
 1.Open the game in your browser.
 2.Choose Rock, Paper, or Scissors.
 3.The computer will randomly choose its option.
 4.The result will be displayed.
 Try to beat the computer! 🎯
-💻 How to Run
+
+##💻 How to Run
 
 Clone the repository:
 
@@ -40,7 +42,7 @@ git clone https://github.com/USERNAME/Rock-Paper-Scissors-Game.git
 
 Open the project folder and run RPS.html in your browser.
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Chhavi Nagariya
 
