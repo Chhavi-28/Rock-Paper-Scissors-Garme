@@ -33,6 +33,7 @@ Rock-Paper-Scissors-Game/
 3.The computer will randomly choose its option.
 4.The result will be displayed.
 Try to beat the computer! 🎯
+```
 
 ##💻 How to Run
 
