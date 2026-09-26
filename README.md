@@ -29,10 +29,10 @@ Rock-Paper-Scissors-Game/
 ```
 
 ## 🎯 How to Play
-1.Open the game in your browser.
-2.Choose Rock, Paper, or Scissors.
-3.The computer will randomly choose its option.
-4.The result will be displayed.
+-Open the game in your browser.
+-Choose Rock, Paper, or Scissors.
+-The computer will randomly choose its option.
+-The result will be displayed.
 Try to beat the computer! 🎯
 
 
